@@ -1,0 +1,401 @@
+{
+  "summary": {
+    "score": 0.72,
+    "categories": {
+      "performance": {
+        "averageScore": 0.35
+      },
+      "accessibility": {
+        "averageScore": 0.83
+      },
+      "best-practices": {
+        "averageScore": 0.92
+      },
+      "seo": {
+        "averageScore": 0.76
+      }
+    },
+    "metrics": {
+      "largest-contentful-paint": {
+        "averageNumericValue": 17971.12
+      },
+      "cumulative-layout-shift": {
+        "averageNumericValue": 0.02
+      },
+      "first-contentful-paint": {
+        "averageNumericValue": 16958.23
+      },
+      "total-blocking-time": {
+        "averageNumericValue": null
+      },
+      "max-potential-fid": {
+        "averageNumericValue": 141.42
+      },
+      "interactive": {
+        "averageNumericValue": null
+      }
+    }
+  },
+  "routes": [
+    {
+      "path": "/",
+      "score": 0.64,
+      "categories": {
+        "performance": {
+          "score": null
+        },
+        "accessibility": {
+          "score": 0.87
+        },
+        "best-practices": {
+          "score": 0.92
+        },
+        "seo": {
+          "score": 0.75
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 16950.027,
+          "displayValue": "17.0 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0.0718298303844454,
+          "displayValue": "0.072"
+        },
+        "first-contentful-paint": {
+          "numericValue": 16096.515,
+          "displayValue": "16.1 s"
+        },
+        "total-blocking-time": {},
+        "max-potential-fid": {
+          "numericValue": 121.36,
+          "displayValue": "120 ms"
+        },
+        "interactive": {}
+      }
+    },
+    {
+      "path": "/2blounge/",
+      "score": 0.7,
+      "categories": {
+        "performance": {
+          "score": 0.37
+        },
+        "accessibility": {
+          "score": 0.78
+        },
+        "best-practices": {
+          "score": 0.92
+        },
+        "seo": {
+          "score": 0.71
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 25240.244,
+          "displayValue": "25.2 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0.015201674357331073,
+          "displayValue": "0.015"
+        },
+        "first-contentful-paint": {
+          "numericValue": 22981.248,
+          "displayValue": "23.0 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 356.7860000000037,
+          "displayValue": "360 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 143.172,
+          "displayValue": "140 ms"
+        },
+        "interactive": {
+          "numericValue": 27742.16100003052,
+          "displayValue": "27.7 s"
+        }
+      }
+    },
+    {
+      "path": "/cafe-new/",
+      "score": 0.69,
+      "categories": {
+        "performance": {
+          "score": 0.34
+        },
+        "accessibility": {
+          "score": 0.78
+        },
+        "best-practices": {
+          "score": 0.92
+        },
+        "seo": {
+          "score": 0.71
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 18671.426,
+          "displayValue": "18.7 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0.014913669631006496,
+          "displayValue": "0.015"
+        },
+        "first-contentful-paint": {
+          "numericValue": 17205.512,
+          "displayValue": "17.2 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 452.4659999999967,
+          "displayValue": "450 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 187.768,
+          "displayValue": "190 ms"
+        },
+        "interactive": {
+          "numericValue": 20943.028,
+          "displayValue": "20.9 s"
+        }
+      }
+    },
+    {
+      "path": "/get-in-touch/",
+      "score": 0.76,
+      "categories": {
+        "performance": {
+          "score": 0.45
+        },
+        "accessibility": {
+          "score": 0.86
+        },
+        "best-practices": {
+          "score": 0.92
+        },
+        "seo": {
+          "score": 0.79
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 15859.634,
+          "displayValue": "15.9 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0.000439921786872528,
+          "displayValue": "0"
+        },
+        "first-contentful-paint": {
+          "numericValue": 15810.03,
+          "displayValue": "15.8 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 100.92299999999523,
+          "displayValue": "100 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 80.063,
+          "displayValue": "80 ms"
+        },
+        "interactive": {
+          "numericValue": 21346.404,
+          "displayValue": "21.3 s"
+        }
+      }
+    },
+    {
+      "path": "/membership/",
+      "score": 0.76,
+      "categories": {
+        "performance": {
+          "score": 0.45
+        },
+        "accessibility": {
+          "score": 0.86
+        },
+        "best-practices": {
+          "score": 0.92
+        },
+        "seo": {
+          "score": 0.79
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 19819.452,
+          "displayValue": "19.8 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0.0032557062202723842,
+          "displayValue": "0.003"
+        },
+        "first-contentful-paint": {
+          "numericValue": 19801.699,
+          "displayValue": "19.8 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 66.88899999999921,
+          "displayValue": "70 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 116.889,
+          "displayValue": "120 ms"
+        },
+        "interactive": {
+          "numericValue": 22480.618,
+          "displayValue": "22.5 s"
+        }
+      }
+    },
+    {
+      "path": "/reservation/",
+      "score": 0.74,
+      "categories": {
+        "performance": {
+          "score": 0.39
+        },
+        "accessibility": {
+          "score": 0.86
+        },
+        "best-practices": {
+          "score": 0.92
+        },
+        "seo": {
+          "score": 0.79
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 16732.456,
+          "displayValue": "16.7 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0.00102662676139646,
+          "displayValue": "0.001"
+        },
+        "first-contentful-paint": {
+          "numericValue": 15267.034,
+          "displayValue": "15.3 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 288.31999999999607,
+          "displayValue": "290 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 286.633,
+          "displayValue": "290 ms"
+        },
+        "interactive": {
+          "numericValue": 18579.299,
+          "displayValue": "18.6 s"
+        }
+      }
+    },
+    {
+      "path": "/todays-specials/",
+      "score": 0.75,
+      "categories": {
+        "performance": {
+          "score": 0.46
+        },
+        "accessibility": {
+          "score": 0.81
+        },
+        "best-practices": {
+          "score": 0.92
+        },
+        "seo": {
+          "score": 0.79
+        }
+      },
+      "metrics": {
+        "largest-contentful-paint": {
+          "numericValue": 12524.578,
+          "displayValue": "12.5 s"
+        },
+        "cumulative-layout-shift": {
+          "numericValue": 0.004962339727039191,
+          "displayValue": "0.005"
+        },
+        "first-contentful-paint": {
+          "numericValue": 11545.573,
+          "displayValue": "11.5 s"
+        },
+        "total-blocking-time": {
+          "numericValue": 4.029000000000451,
+          "displayValue": "0 ms"
+        },
+        "max-potential-fid": {
+          "numericValue": 54.029,
+          "displayValue": "50 ms"
+        },
+        "interactive": {
+          "numericValue": 13709.171,
+          "displayValue": "13.7 s"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "metrics": {
+      "largest-contentful-paint": {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "description": "Largest Contentful Paint marks the time at which the largest text or image is painted. [Learn more](https://web.dev/lighthouse-largest-contentful-paint/)",
+        "numericUnit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "id": "cumulative-layout-shift",
+        "title": "Cumulative Layout Shift",
+        "description": "Cumulative Layout Shift measures the movement of visible elements within the viewport. [Learn more](https://web.dev/cls/).",
+        "numericUnit": "unitless"
+      },
+      "first-contentful-paint": {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "description": "First Contentful Paint marks the time at which the first text or image is painted. [Learn more](https://web.dev/first-contentful-paint/).",
+        "numericUnit": "millisecond"
+      },
+      "total-blocking-time": {
+        "id": "total-blocking-time",
+        "title": "Total Blocking Time",
+        "description": "Sum of all time periods between FCP and Time to Interactive, when task length exceeded 50ms, expressed in milliseconds. [Learn more](https://web.dev/lighthouse-total-blocking-time/).",
+        "numericUnit": "millisecond"
+      },
+      "max-potential-fid": {
+        "id": "max-potential-fid",
+        "title": "Max Potential First Input Delay",
+        "description": "The maximum potential First Input Delay that your users could experience is the duration of the longest task. [Learn more](https://web.dev/lighthouse-max-potential-fid/).",
+        "numericUnit": "millisecond"
+      },
+      "interactive": {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "description": "Time to interactive is the amount of time it takes for the page to become fully interactive. [Learn more](https://web.dev/interactive/).",
+        "numericUnit": "millisecond"
+      }
+    },
+    "categories": {
+      "performance": {
+        "id": "performance",
+        "title": "Performance"
+      },
+      "accessibility": {
+        "id": "accessibility",
+        "title": "Accessibility"
+      },
+      "best-practices": {
+        "id": "best-practices",
+        "title": "Best Practices"
+      },
+      "seo": {
+        "id": "seo",
+        "title": "SEO"
+      }
+    }
+  }
+}
