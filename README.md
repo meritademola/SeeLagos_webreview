@@ -6,7 +6,7 @@ This majority of this documentation was written in Javascript Objection Notation
 Kindly focus on fixing the errrors documented(with literal pointers to the solutions) on Accesibility and performance functionality issues.
 
 ## Getting Started
-_Requirements: Node >= 14.x, Node 16.x or higher recommended._ 
+_Requirements: Node >= 14.x, Node 16.x or higher recommended._ <br>
 Need a hand? Do not hessitate to reach out for one-on-one help.
 
 
@@ -40,4 +40,4 @@ Status: <b>Beta</b><br>
 
 ## License
 
-[MIT](https://github.com/meritademola/SeeLagos_webreview/blob/main/LICENSE) License © 2023 [Merit Ademola](https://github.com/meritademola)
+MIT License © 2023 [Merit Ademola](https://github.com/meritademola)
